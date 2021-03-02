@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**gabriel-jmoreira/gabriel-jmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, me chamo Gabriel Moreira. Sou desenvolvedor nas linguagens de Python e JavaScript. Iniciando a carreira como desenvolvedor web e mobile busco novos conhecimentos com a ideia de ajudar e ser ajudado por profissionais da área.
 
-Here are some ideas to get you started:
+Aqui estão algumas informações interessantes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Link do eu Blog: 
+Link do meu Instagram: https://www.instagram.com/opa_quadrado/
+Link do meu Linkedin: https://www.linkedin.com/in/gabrieljrmoreira/
+
+Vamos nos conectar? 
+
+
+
