@@ -6,8 +6,6 @@ Aqui estão algumas informações interessantes
 
 Link do eu Blog: 
 
-Link do meu Instagram: https://www.instagram.com/opa_quadrado/
-
 Link do meu Linkedin: https://www.linkedin.com/in/gabrieljrmoreira/
 
 Vamos nos conectar? 
